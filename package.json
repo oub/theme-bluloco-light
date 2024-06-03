@@ -1,12 +1,12 @@
 {
-  "name": "theme-bluloco-light",
-  "displayName": "Bluloco Light Theme",
+  "name": "theme-bluloco-light-oub-fork",
+  "displayName": "Bluloco Light Theme Oub Fork",
   "description": "A fancy but yet sophisticated light designer color scheme / theme.",
   "version": "3.7.3",
-  "publisher": "uloco",
+  "publisher": "oub",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uloco/theme-bluloco-light.git"
+    "url": "https://github.com/oub/theme-bluloco-light.git"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/uloco"
@@ -29,6 +29,11 @@
         "label": "Bluloco Light Italic",
         "uiTheme": "vs",
         "path": "./themes/bluloco-light-italic-color-theme.json"
+      },
+      {
+        "label": "Bluloco Light Italic w/ Dark HBars ",
+        "uiTheme": "vs",
+        "path": "./themes/bluloco-light-italic-dark-hbars-color-theme.json"
       }
     ]
   },
