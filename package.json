@@ -2,7 +2,7 @@
   "name": "theme-bluloco-light-oub-fork",
   "displayName": "Bluloco Light Theme Extended",
   "description": "A fancy but yet sophisticated light designer color scheme / theme.",
-  "version": "3.7.3",
+  "version": "3.7.4",
   "publisher": "oub",
   "repository": {
     "type": "git",
@@ -24,16 +24,6 @@
         "label": "Bluloco Light",
         "uiTheme": "vs",
         "path": "./themes/bluloco-light-color-theme.json"
-      },
-      {
-        "label": "Bluloco Light Italic",
-        "uiTheme": "vs",
-        "path": "./themes/bluloco-light-italic-color-theme.json"
-      },
-      {
-        "label": "Bluloco Light Italic w/ Dark HBars ",
-        "uiTheme": "vs",
-        "path": "./themes/bluloco-light-italic-dark-hbars-color-theme.json"
       }
     ]
   },
